@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                ShowText("This Is Working String   /n", 100);
+                ShowText("This Is Working String   \n", 100);
 
             }
         });
